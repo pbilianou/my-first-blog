@@ -1,0 +1,4 @@
+*.pyc
+__pycache_
+girlsenv
+db.sqlite3
